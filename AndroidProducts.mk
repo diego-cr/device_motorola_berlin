@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_berlin.mk
+    $(LOCAL_DIR)/aicp_berlin.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_berlin-user \
-    lineage_berlin-userdebug \
-    lineage_berlin-eng
+    aicp_berlin-user \
+    aicp_berlin-userdebug \
+    aicp_berlin-eng
